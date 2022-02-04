@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg" className="App-logo" alt="logo" />
+        <img
+          src="https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg"
+          className="App-logo"
+          alt="logo"
+        />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -23,3 +27,6 @@ function App() {
 }
 
 export default App;
+
+// Original React logo src: {logo} - imported from logo.svg
+// Original href link: https://reactjs.org
